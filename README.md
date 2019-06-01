@@ -2,6 +2,8 @@
 
 A Hotel Reservation and Management System built with Spring MVC (no Spring Boot).
 
+<b>Working on: </b> Making some REST Controllers.
+
 <h4>Makes use of:</h4>
 <ul>
   <li>Matrix Administrator Template</li>
